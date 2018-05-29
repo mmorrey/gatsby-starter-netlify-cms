@@ -7,6 +7,6 @@ tags:
   - stuff
 ---
 * bullet1
-* bullet2 *important*
+* bullet2 _important_
 
-A _thing_
+A _thing here_
