@@ -1,0 +1,12 @@
+---
+templateKey: blog-post
+title: A test entry
+date: '2018-05-29T18:18:45+01:00'
+description: Something about it
+tags:
+  - stuff
+---
+* bullet1
+* bullet2 *important*
+
+A _thing_
